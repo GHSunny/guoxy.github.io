@@ -1,2 +1,1 @@
-# guoxy.github.io
-Xiangyang Guo's Homepage
+# Xiangyang Guo's Homepage
