@@ -1,5 +1,5 @@
 # Xiangyang Guo
-[References](https://www.runoob.com)
+[References](https://github.com/guoxy314/guoxy314.github.io/blob/gh-pages/5.htm)
 
 ## Deep Gaussian Processes
 
